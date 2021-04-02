@@ -1,4 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# business-card
+A simple flutter app created while doing online web courses that give my details in a business card format.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EuanScott)](https://github.com/EuanScott/business-card)
+
+<!-- ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
 
@@ -25,4 +30,4 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 
 >This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png) -->
